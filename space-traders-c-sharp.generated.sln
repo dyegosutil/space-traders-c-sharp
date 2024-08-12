@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "space-traders-c-sharp", "space-traders-c-sharp.csproj", "{EDFFE38E-B8C1-48E2-A6DB-6D9EFF734324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFFE38E-B8C1-48E2-A6DB-6D9EFF734324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFFE38E-B8C1-48E2-A6DB-6D9EFF734324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFFE38E-B8C1-48E2-A6DB-6D9EFF734324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFFE38E-B8C1-48E2-A6DB-6D9EFF734324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92994169-B110-4DB1-8DD6-45D17A89124B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NnRgndW1nI=",
+  "success": true,
+  "projectFilePath": "/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/space-traders-c-sharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/dyego.sutil@scalable.capital/.nuget/packages/restsharp/111.4.1/restsharp.111.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

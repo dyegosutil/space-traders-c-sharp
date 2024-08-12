@@ -1,0 +1,17 @@
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/bin/Debug/net8.0/space-traders-c-sharp
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/bin/Debug/net8.0/space-traders-c-sharp.deps.json
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/bin/Debug/net8.0/space-traders-c-sharp.runtimeconfig.json
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/bin/Debug/net8.0/space-traders-c-sharp.dll
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/bin/Debug/net8.0/space-traders-c-sharp.pdb
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-traders-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-traders-c-sharp.AssemblyInfoInputs.cache
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-traders-c-sharp.AssemblyInfo.cs
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-traders-c-sharp.csproj.CoreCompileInputs.cache
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-traders-c-sharp.dll
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/refint/space-traders-c-sharp.dll
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-traders-c-sharp.pdb
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-traders-c-sharp.genruntimeconfig.cache
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/ref/space-traders-c-sharp.dll
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-traders-c-sharp.csproj.AssemblyReference.cache
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/bin/Debug/net8.0/RestSharp.dll
+/Users/dyego.sutil@scalable.capital/Documents/C-Sharp/space-traders-c-sharp/obj/Debug/net8.0/space-tr.DC7DEE39.Up2Date
